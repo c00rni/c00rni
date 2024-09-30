@@ -1,4 +1,4 @@
-## Hi, I'm Antony 👋
+## Hi, I'm Antony
 
 - 🔭 I’m currently working at Ageospacial
 - 🖥️ I've been coding in Python primarily for over 4 years
